@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+
+#-e triggers the setup.py
+#-e .
