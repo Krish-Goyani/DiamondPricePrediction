@@ -1,0 +1,7 @@
+artifacts folder is used to store processed data,intermediate datas
+
+trainin pipeline = data ingestion->data transformation=>model trainor->model evaluation
+
+prediction pipeline = api,cloud,prediction
+
+utils.py = code which will be useed repetedly
